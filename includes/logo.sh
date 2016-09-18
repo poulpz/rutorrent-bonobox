@@ -2,9 +2,24 @@
 
 # logo
 echo -e "${CBLUE}
-                                      |          |_)         _|
-            __ \`__ \   _ \  __ \   _\` |  _ \  _\` | |  _ \   |    __|
-            |   |   | (   | |   | (   |  __/ (   | |  __/   __| |
-           _|  _|  _|\___/ _|  _|\__,_|\___|\__,_|_|\___|_)_|  _|
+                        ......                  ....
+                       . .OOOO,..  ........    .IOOOO..
+                       .OOOOOOOO.  ..OOOO$.    OOOOOOOO
+                       ?OOO..OOO...OOOOOOOOO...OOO..OOO..
+                       +OOO....  .OOOOOOOOOOO....  .OOO.
+                 ... ...OOOO...  +OOOOOOOOOOO.....~OOOO......
+               ...OOOOO  OOOOOO..?OO.ZOOO=~OO...OOOOO?..OOOOO..
+               ..OOOOOO  ..=OOOOOOOOOOOOOOOOOOOOOOO.....OOOOOO.
+               .+OO7...    ...:OOOOOOOOOOOOOOOOO... .  ....7OO.
+               ..OOO...     .....ZOOOOOOOOOOO7.....    ....OOO.
+               ..~OOOOOO77$OOOOOOOOOOOOOOOOOOOOOOOOO7?7OOOOOO..
+                   :OOOOOOOOOOOOO...OOOIOO?..,OOOOOOOOOOOOO=.
+                   .................OOO.OOO..................
+                         .O..    ..OOO=.OOOO.     .=7..
+                       .,OOO.    .OOOO...OOOZ..  ..OOO.
+                       .OOO... ..OOOO    .OOOO...  +OOO
+                       .OOO$.  ZOOOO.    ..OOOO?   OOO$
+                       ..OOOOOOOOO...      ..OOOOOOOOO
+                         ..OOOO?...          . $OOO$...
 ${CEND}"
 
