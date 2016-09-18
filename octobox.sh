@@ -2,7 +2,7 @@
 #
 # Script d'installation ruTorrent / Nginx
 # Auteur : Ex_Rat
-#
+# Adaptations : poulpz
 # Nécessite Debian 7 ou 8 (32/64 bits) & un serveur fraîchement installé
 #
 # Multi-utilisateurs
